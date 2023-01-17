@@ -1,9 +1,7 @@
 const express = require('express')
 const {SendEmail} = require('./Nodemailer')
 const cors = require('cors')
-app.use(cors({
-    origin:'*'
-}))
+app.use(cors())
 
 require("dotenv").config()
 const app = express()
