@@ -1,2 +1,4 @@
-# Nodemailer_Server
-server for sending emails
+# Nodemailer Server 
+
+
+### Simple Node/Express/Nodemailer server for sending emails.
